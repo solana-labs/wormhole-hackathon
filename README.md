@@ -1,4 +1,4 @@
-# Solana's Wormhole Hackahthon &middot; $250k of prizes
+# Solana's Wormhole Hackahthon &middot; $250k of prizes + seed funding
 
 
 ## Introduction

@@ -1,4 +1,5 @@
-# Solana's Wormhole Hackahthon &middot; $250k of prizes + seed funding
+# Solana's Wormhole Hackathon &middot; $250k of prizes + seed funding
+Bridging crypto to the masses at warp speed
 
 * Hackathon dates: October 28th through November 14
 * Type: Online and global

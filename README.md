@@ -21,7 +21,7 @@ If you haven't done so already, register for the hackathon (link) and the fastes
 
 ## Other Resources
 
-* [Find a teammate](link)We created a directory of registrants. We encourage hackers looking to join or form a team to search that resource.
+* [Find a teammate](link) We encourage hackers looking to join or form a team to search through the directory of participants. You can reach out on our dedicated Discord channel.
 * [Build a high-speed DEX on Solana using Serum infrastructure](https://serum-academy.com/en/developer-resources/)
 * [Run your own DEX](https://serum-academy.com/en/dex-list/)
 * [List tokens on the Serum DEX](https://serum-academy.com/en/add-market/)

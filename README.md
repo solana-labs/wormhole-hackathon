@@ -51,13 +51,13 @@ After judges complete individual evaluations, the hackathon organizers will disc
 
 Prizes
 
-First Place
+* First Place:
 4 winners can win up to $30k + Custom Solana Swag
 
-Second Place
+* Second Place:
 5 teams of $10k each + Custom Solana Swag
 
-Third Place
+* Third Place:
 5 teams of $5k + Custom Solana Swag
 
 ## Discussion Channels
@@ -67,14 +67,14 @@ Third Place
 
 ### Code of Conduct
 
-The Solana Wormhole hackathon welcomes any one from around the world to participate and is intended to create an inclusive environment for building, collaboration, creativity, and impact. We value the participation of each member of the community and want everyone involved to be respected. Accordingly, hackaton administrators, judges, and participants are expected to adhere to the Code of Conduct outlined below for the duration of the hackathon. Event organizers will enforce this code and have the right to disqualify any individual or team that breaks the code.
+The Solana Wormhole hackathon welcomes any one from around the world to participate and is intended to create an inclusive environment for building, collaboration, creativity, and impact. We value the participation of each member of the community and want everyone involved to be respected. Accordingly, hackathon administrators, judges, and participants are expected to adhere to the Code of Conduct outlined below for the duration of the hackathon. Event organizers will enforce this code and have the right to disqualify any individual or team that breaks the code.
 
-* Be Respectful: Be kind to all who the individuals involved in the event. Do not insult or put down other attendees.
+* Be Respectful: Be kind to all who participate in the event. Do not insult or put down other attendees.
 
-* Behave professionally. Remember that harassment, racism, sexism, or exclusionary jokes are not appropriate for this event. Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, race, and/or religion. Sexual images in public forums, deliberate intimidation, online stalking, following, sustained disruption of virtual presentations, or any other inappropriate action is strictly prohibited
+* Behave Professionally. Remember that harassment, racism, sexism, or exclusionary jokes are not appropriate for this event. Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, race, and/or religion. Sexual images in public forums, deliberate intimidation, online stalking, following, sustained disruption of virtual presentations, or any other inappropriate action is strictly prohibited
 
 * Be Thoughtful: In the spirit of open source and inclusiveness, there may be minors participating in the hackathon. Keep this in mind when communicating or speaking in public forums.
 
 * Be Open: We welcome attendees from all backgrounds. This event is about increasing awareness for Solana and the greater crypto space. Please be welcoming to all who register for the event and help us create a friendly environment for all.
 
-* Believe in yourself: Crypto opens the door for anyone to permissionlessly build applications that will change how we all interact with finance, gaming, and the Internet as a whole. Dream big and use this powerful technology to create a better world.
+* Believe in Yourself: Crypto opens the door for anyone to permissionlessly build applications that will change how we all interact with finance, gaming, and the Internet as a whole. Dream big and use this powerful technology to create a better world.

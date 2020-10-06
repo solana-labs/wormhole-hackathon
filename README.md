@@ -16,17 +16,17 @@ If you haven't done so already, register for the hackathon (link) and the join f
 
 * Why Solana (link)
 * [Solana Documentation](https://docs.solana.com/)
+* [Solana Program Library Documentation](https://spl.solana.com/)
 * [Wormhole Documentation](https://github.com/certusone/wormhole/tree/master/docs)
 * [Examples](https://docs.solana.com/apps/hello-world)
 * [Overview](https://docs.solana.com/cluster/overview)
 
 ## Other Resources
 
-* [Find a teammate](https://discord.gg/fYpyaYh) We encourage hackers looking to join or form a team to search through the directory of participants. You can reach out on our dedicated Discord channel.
+* [Find a teammate](https://discord.gg/fYpyaYh): We encourage hackers looking to join or form a team to search through the directory of participants. You can reach out on our dedicated Discord channel.
 * [Build a high-speed DEX on Solana using Serum infrastructure](https://serum-academy.com/en/developer-resources/)
 * [Run your own DEX](https://serum-academy.com/en/dex-list/)
 * [List tokens on the Serum DEX](https://serum-academy.com/en/add-market/)
-* [Solana Tech Forum](https://forums.solana.com/)
 
 Don’t choose between scale, security, and decentralization. Solana has solved the trilemma for you. Check out our tech stack below to learn how we did it:
 

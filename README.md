@@ -21,6 +21,7 @@ If you haven't done so already, register for the hackathon (link) and the fastes
 
 ## Other Resources
 
+* [Find a teammate](link)We created a directory of registrants. We encourage hackers looking to join or form a team to search that resource.
 * [Build a high-speed DEX on Solana using Serum infrastructure](https://serum-academy.com/en/developer-resources/)
 * [Run your own DEX](https://serum-academy.com/en/dex-list/)
 * [List tokens on the Serum DEX](https://serum-academy.com/en/add-market/)
@@ -39,7 +40,7 @@ Don’t choose between scale, security, and decentralization. Solana has solved 
 
 ## Judging
 
-Participants must submit a maximum of 1 project by the hackathon deadline. Once all submissions are collected, Solana will distribute a list to the judges for the evaluation process. Teams and individuals are evaluated on the following criteria:
+Participants may submit a maximum of 1 project by the hackathon deadline. Once all submissions are collected, Solana will distribute a list to the judges for the evaluation process. Teams and individuals are evaluated on the following criteria:
 
 1. Functionality
 2. Potential impact

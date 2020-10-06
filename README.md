@@ -1,7 +1,7 @@
 # Solana's Wormhole Hackahthon &middot; $250k of prizes + seed funding
 
-Hackathon dates: October 28th through November 14
-Type: Online and global
++Hackathon dates: October 28th through November 14
++Type: Online and global
 
 ## Introduction
 Solana is the fastest, low-fee, censorship-resistant blockchain built to enable high-growth applications to scale to masses. Wormhole is the first trustless, bidirectional bridge that connects Ethereum with Solana. Wormhole allows new and existing crypto projects, businesses, and communities to move tokenized assets seamlessly across blockchains to benefit from Solana’s high speed (50,000 transactions per second) and low cost (less than $0.0001 per transaction). 
@@ -10,24 +10,23 @@ As long as you have an internet connection, you're invited to join our first glo
  
 If you haven't done so already, register for the hackathon and the fastest growing ecosystem in crypto!
 
-## Documentation
+## Get Started Building
 
-[Documentation] (https://docs.solana.com/)
-Examples
-Building on Solana using the Serum DEX
-Run your own DEX
-List tokens on the Serum DEX
-Solana Forums
++[Solana Documentation](https://docs.solana.com/)
++Wormhole Documentation
++[Examples](https://docs.solana.com/apps/hello-world)
++[Overview](https://docs.solana.com/cluster/overview)
+
 ## Other Resources
 
-Building on Solana using Serum DEX infrastructure
-Run your own DEX
-List tokens on the Serum DEX
-Solana Forums
++[Build a high-speed DEX on Solana using Serum infrastructure](https://serum-academy.com/en/developer-resources/)
++[Run your own DEX](https://serum-academy.com/en/dex-list/)
++[List tokens on the Serum DEX](https://serum-academy.com/en/add-market/)
++[Solana Forums](https://forums.solana.com/)
 
 Don’t choose between scale, security, and decentralization. Solana has solved the trilemma for you. Check out our tech stack below to learn how we did it:
 
-Proof of History (PoH) - A clock before consensus
++[Proof of History (PoH)]( - A clock before consensus
 Tower BFT - A PoH-optimized version of PBFT
 Turbine - A block propagation protocol 
 Gulf Stream - Mempool-less transaction forwarding protocol

@@ -1,4 +1,5 @@
-# Solana's Wormhole Hackahthon &middot; $250k of prizes + seed funding
+# Solana's Wormhole Hackathon &middot; $250k of prizes + seed funding
+Bridging crypto to the masses at warp speed
 
 * Hackathon dates: October 28th through November 14
 * Type: Online and global
@@ -21,6 +22,7 @@ If you haven't done so already, register for the hackathon (link) and the join f
 
 ## Other Resources
 
+* [Find a teammate](link) We encourage hackers looking to join or form a team to search through the directory of participants. You can reach out on our dedicated Discord channel.
 * [Build a high-speed DEX on Solana using Serum infrastructure](https://serum-academy.com/en/developer-resources/)
 * [Run your own DEX](https://serum-academy.com/en/dex-list/)
 * [List tokens on the Serum DEX](https://serum-academy.com/en/add-market/)
@@ -39,7 +41,7 @@ Don’t choose between scale, security, and decentralization. Solana has solved 
 
 ## Judging
 
-Participants must submit a maximum of 1 project by the hackathon deadline. Once all submissions are collected, Solana will distribute a list to the judges for the evaluation process. Teams and individuals are evaluated on the following criteria:
+Participants may submit a maximum of 1 project by the hackathon deadline. Once all submissions are collected, Solana will distribute a list to the judges for the evaluation process. Teams and individuals are evaluated on the following criteria:
 
 1. Functionality
 2. Potential impact
@@ -68,14 +70,14 @@ After judges complete individual evaluations, the hackathon organizers will disc
 
 ### Code of Conduct
 
-The Solana Wormhole hackathon welcomes any one from around the world to participate and is intended to create an inclusive environment for building, collaboration, creativity, and impact. We value the participation of each member of the community and want everyone involved to be respected. Accordingly, hackaton administrators, judges, and participants are expected to adhere to the Code of Conduct outlined below for the duration of the hackathon. Event organizers will enforce this code and have the right to disqualify any individual or team that breaks the code.
+The Solana Wormhole hackathon welcomes any one from around the world to participate and is intended to create an inclusive environment for building, collaboration, creativity, and impact. We value the participation of each member of the community and want everyone involved to be respected. Accordingly, hackathon administrators, judges, and participants are expected to adhere to the Code of Conduct outlined below for the duration of the hackathon. Event organizers will enforce this code and have the right to disqualify any individual or team that breaks the code.
 
-* Be Respectful: Be kind to all who the individuals involved in the event. Do not insult or put down other attendees.
+* Be Respectful: Be kind to all who participate in the event. Do not insult or put down other attendees.
 
-* Behave professionally. Remember that harassment, racism, sexism, or exclusionary jokes are not appropriate for this event. Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, race, and/or religion. Sexual images in public forums, deliberate intimidation, online stalking, following, sustained disruption of virtual presentations, or any other inappropriate action is strictly prohibited
+* Behave Professionally. Remember that harassment, racism, sexism, or exclusionary jokes are not appropriate for this event. Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, race, and/or religion. Sexual images in public forums, deliberate intimidation, online stalking, following, sustained disruption of virtual presentations, or any other inappropriate action is strictly prohibited
 
 * Be Thoughtful: In the spirit of open source and inclusiveness, there may be minors participating in the hackathon. Keep this in mind when communicating or speaking in public forums.
 
 * Be Open: We welcome attendees from all backgrounds. This event is about increasing awareness for Solana and the greater crypto space. Please be welcoming to all who register for the event and help us create a friendly environment for all.
 
-* Believe in yourself: Crypto opens the door for anyone to permissionlessly build applications that will change how we all interact with finance, gaming, and the Internet as a whole. Dream big and use this powerful technology to create a better world.
+* Believe in Yourself: Crypto opens the door for anyone to permissionlessly build applications that will change how we all interact with finance, gaming, and the Internet as a whole. Dream big and use this powerful technology to create a better world.

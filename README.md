@@ -8,15 +8,15 @@ Bridging crypto to the masses at warp speed
 ## Introduction
 Solana is the fastest, low-fee, censorship-resistant blockchain designed to enable developers to permissionlessly build and scale applications to billions of users globally. Wormhole is the first trustless, bidirectional bridge that connects Ethereum with Solana. Wormhole allows new and existing crypto projects, businesses, and communities to move tokenized assets seamlessly across blockchains to benefit from Solana’s high speed (50,000 transactions per second) and low cost (less than $0.0001 per transaction). 
 
-As long as you have an internet connection, you're invited to join our first global hackathon! Combining Wormhole with Solana’s core features gives hackers an open design space to create entirely new applications that could bring in the next wave of crypto users. While we encourage participants to build with Wormhole, hackers can build any application or tool they believe will have an impact on the ecosystem. The only requirement is that teams must incorporate Solana into their project in some way.  Take a look at our list of ideas for inspiration (link).
+As long as you have an internet connection, you're invited to join our first global hackathon! Combining Wormhole with Solana’s core features gives hackers an open design space to create entirely new applications that could bring in the next wave of crypto users. While we encourage participants to build with Wormhole, hackers can build any application or tool they believe will have an impact on the ecosystem. The only requirement is that teams must incorporate Solana into their project in some way.  Take a look at our list of [ideas for inspiration](link).
  
-If you haven't done so already, register for the hackathon (link) and the fastest growing ecosystem in crypto!
+If you haven't done so already, register for the hackathon (link) and the join fastest growing ecosystem in crypto!
 
 ## Get Started Building
 
 * Why Solana (link)
 * [Solana Documentation](https://docs.solana.com/)
-* Wormhole Documentation (link)
+* [Wormhole Documentation](https://github.com/certusone/wormhole/tree/master/docs)
 * [Examples](https://docs.solana.com/apps/hello-world)
 * [Overview](https://docs.solana.com/cluster/overview)
 
@@ -51,21 +51,22 @@ Participants may submit a maximum of 1 project by the hackathon deadline. Once a
 
 After judges complete individual evaluations, the hackathon organizers will discuss with the judges to choose the winners based on the project's weighted scores. To culminate the hackathon, there will be a live-streamed Demo Day with the top submissions, where prizes will be announced. Teams who decide to participate will demo their project to the Solana community and vie for the interest of investors, partners, and collaborators. 
 
-Prizes
+**Prizes**
 
-* First Place:
-4 winners can win up to $30k + Custom Solana Swag
-
-* Second Place:
-5 teams of $10k each + Custom Solana Swag
-
-* Third Place:
-5 teams of $5k + Custom Solana Swag
+| Place                                  | Prize                                        |
+|----------------------------------------|----------------------------------------------|
+| First Place                            | 4 winners can win up to $30k and Solana Swag |
+| Second Place                           | 5 teams of $10k and Solana Swag              |
+| Third Place                            | 5 teams of $5k and Solana Swag               |
+| All participants that submit a project | $50 and Solana Swag                          |
 
 ## Discussion Channels
 
-* Hackathon technical help (Discord channel link)
-* Find a teammate (Discord channel link)
+* [#hackathon-announcements](): Logistics from the Solana team 
+* [#qa-general](Discord channel link): Technical support and help from Certus One and Solana team members
+* [#team-formation](Discord channel link): Find a team or seek team members
+* [#ask-organizers](): Questions about the hackathon or prize delivery
+* [#hacker-introductions](): Introduce yourself!
 
 ### Code of Conduct
 

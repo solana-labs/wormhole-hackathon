@@ -68,7 +68,7 @@ After judges complete individual evaluations, the hackathon organizers will disc
 * [#ask-organizers](): Questions about the hackathon or prize delivery
 * [#hacker-introductions](): Introduce yourself!
 
-### Code of Conduct
+## Code of Conduct 
 
 The Solana Wormhole hackathon welcomes any one from around the world to participate and is intended to create an inclusive environment for building, collaboration, creativity, and impact. We value the participation of each member of the community and want everyone involved to be respected. Accordingly, hackathon administrators, judges, and participants are expected to adhere to the Code of Conduct outlined below for the duration of the hackathon. Event organizers will enforce this code and have the right to disqualify any individual or team that breaks the code.
 

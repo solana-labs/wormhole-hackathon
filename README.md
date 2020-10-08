@@ -3,7 +3,7 @@
 
 * Hackathon dates: October 28th through November 14
 * Type: Online and global
-* More details: (blog post link)
+* More details: [Announcement Blog Post](https://medium.com/solana-labs/wormhole-solana-ethereum-bridge-d5502e944acb)
 
 ## Introduction
 Solana is the fastest, low-fee, censorship-resistant blockchain designed to enable developers to permissionlessly build and scale applications to billions of users globally. Wormhole is the first trustless, bidirectional bridge that connects Ethereum with Solana. Wormhole allows new and existing crypto projects, businesses, and communities to move tokenized assets seamlessly across blockchains to benefit from Solana’s high speed (50,000 transactions per second) and low cost (less than $0.0001 per transaction). 
@@ -14,7 +14,6 @@ If you haven't done so already, register for the hackathon (link) and the join f
 
 ## Get Started Building
 
-* Why Solana (link)
 * [Solana Documentation](https://docs.solana.com/)
 * [Solana Program Library Documentation](https://spl.solana.com/)
 * [Wormhole Documentation](https://github.com/certusone/wormhole/tree/master/docs)
@@ -58,7 +57,7 @@ After judges complete individual evaluations, the hackathon organizers will disc
 | First Place                            | 4 winners can win up to $30k and Solana Swag |
 | Second Place                           | 5 teams of $10k and Solana Swag              |
 | Third Place                            | 5 teams of $5k and Solana Swag               |
-| All participants that submit a project | $50 and Solana Swag                          |
+| All participants that submit a project | $100 and Solana Swag                          |
 
 ## Discussion Channels
 

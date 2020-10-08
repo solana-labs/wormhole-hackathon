@@ -62,8 +62,8 @@ After judges complete individual evaluations, the hackathon organizers will disc
 ## Discussion Channels
 
 * [#hackathon-announcements](): Logistics from the Solana team 
-* [#qa-general](Discord channel link): Technical support and help from Certus One and Solana team members
-* [#team-formation](Discord channel link): Find a team or seek team members
+* [#qa-general](https://discord.gg/4Gq2xgb): Technical support and help from Certus One and Solana team members
+* [#team-formation](https://discord.gg/fYpyaYh): Find a team or seek team members
 * [#ask-organizers](): Questions about the hackathon or prize delivery
 * [#hacker-introductions](): Introduce yourself!
 

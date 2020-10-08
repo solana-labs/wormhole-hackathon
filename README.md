@@ -19,6 +19,7 @@ If you haven't done so already, register for the hackathon (link) and the join f
 * [Wormhole Documentation](https://github.com/certusone/wormhole/tree/master/docs)
 * [Examples](https://docs.solana.com/apps/hello-world)
 * [Overview](https://docs.solana.com/cluster/overview)
+* [Project ideas](https://github.com/solana-labs/wormhole-hackathon/blob/main/ideas.md)
 
 ## Other Resources
 

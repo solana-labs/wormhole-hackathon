@@ -10,7 +10,7 @@ Solana is the fastest, low-fee, censorship-resistant blockchain designed to enab
 
 As long as you have an internet connection, you're invited to join our first global hackathon! Combining Wormhole with Solana’s core features gives hackers an open design space to create entirely new applications that could bring in the next wave of crypto users. While we encourage participants to build with Wormhole, hackers can build any application or tool they believe will have an impact on the ecosystem. The only requirement is that teams must incorporate Solana into their project in some way.  Take a look at our list of [ideas for inspiration](https://github.com/solana-labs/wormhole-hackathon/blob/main/ideas.md).
  
-If you haven't done so already, register for the hackathon (link) and the join fastest growing ecosystem in crypto!
+If you haven't done so already, register for the [hackathon](https://solana.com/hackathon) and the join fastest growing ecosystem in crypto!
 
 ## Get Started Building
 
@@ -20,6 +20,7 @@ If you haven't done so already, register for the hackathon (link) and the join f
 * [Examples](https://docs.solana.com/apps/hello-world)
 * [Overview](https://docs.solana.com/cluster/overview)
 * [Project ideas](https://github.com/solana-labs/wormhole-hackathon/blob/main/ideas.md)
+* [Register for the hackathon](https://solana.com/hackathon)
 
 ## Other Resources
 

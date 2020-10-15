@@ -15,6 +15,7 @@ If you haven't done so already, register for the [hackathon](https://solana.com/
 ## Get Started Building
 
 * [Solana Documentation](https://docs.solana.com/)
+* [Find a teammate directory](https://airtable.com/shrkdku8nk6anh5mZ/tblPJxUnAsH4S5WHt)
 * [Solana Program Library Documentation](https://spl.solana.com/)
 * [Wormhole Documentation](https://github.com/certusone/wormhole)
 * [Examples](https://docs.solana.com/apps/hello-world)

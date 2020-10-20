@@ -1,4 +1,4 @@
-# Solana's Wormhole Hackathon &middot; Over $200k in prizes
+# Solana's Wormhole Hackathon &middot; Up to $200k in prizes
 #### Boost your project at warp speed with Solana
 
 * Hackathon dates: October 28th through November 14

@@ -1,6 +1,6 @@
 # Hackathon Ideas
 
-The Solana team has compiled a list of ideas we're very interested in seeing. Below are a few requests for projects which outline some of those ideas in general terms.
+The Solana team has compiled a list of interesting ideas to explore during the hackathon. Below are a few requests for projects which outline some of those ideas in general terms.
 
 ## Explorers/Visualisers
 
@@ -26,6 +26,8 @@ The Solana team has compiled a list of ideas we're very interested in seeing. Be
 
 ## DeFi
 
+-   A Serum-related list can be found here: <https://projectserum.com/blog/project-ideas> 
+
 -   Money market lending protocol native to Solana (akin to Compound or Aave)
 
 -   Cross-Chain Lending: A lending protocol that immediately provides liquidity for assets transferred cross-chain - such that users don't need to wait for the cross-chain assets to be fully confirmed on both chains -  in return for a fee
@@ -45,8 +47,6 @@ The Solana team has compiled a list of ideas we're very interested in seeing. Be
 -   Fee Compare: A simple interface that tracks and compares cost to execute something given certain parameters across various DeFi platforms. Parameters include desired spread, transaction fees, trading pair setc. Can also track total value saved in transaction fees/spread
 
 -   Creating Custom Markets on Serum: An interface to create custom markets on Serum from Ethereum. Including the set-up of decentralised market makers. 
-
--   More DeFi project ideas specifically related to Serum can be found here: <https://projectserum.com/blog/project-ideas> 
 
 -   Slashing Insurance: A simple insurance protocol where the community can provide insurance for validators against the risk of being slashed
 

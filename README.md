@@ -14,6 +14,7 @@ As long as you have an internet connection, you're invited to join our first glo
 ## Get Started Building
 
 * [Solana Documentation](https://docs.solana.com/)
+* [Hello World](https://github.com/solana-labs/example-helloworld)
 * [Discord Support Chat](https://discord.gg/4Gq2xgb): Technical support and help from Certus One and Solana engineers
 * [Find a teammate directory](https://airtable.com/shrkdku8nk6anh5mZ/tblPJxUnAsH4S5WHt)
 * [Solana Program Library Documentation](https://spl.solana.com/)

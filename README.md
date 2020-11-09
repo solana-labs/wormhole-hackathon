@@ -22,7 +22,6 @@ As long as you have an internet connection, you're invited to join our first glo
 * [Examples](https://docs.solana.com/apps/hello-world)
 * [Overview](https://docs.solana.com/cluster/overview)
 * [Project ideas](https://github.com/solana-labs/wormhole-hackathon/blob/main/ideas.md)
-* [Register for the hackathon](https://solana.com/hackathon)
 
 ## Other Resources
 

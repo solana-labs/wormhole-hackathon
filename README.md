@@ -4,7 +4,7 @@
 * Hackathon dates: October 28th through November 14
 * Type: Online and global
 * More details: [Announcement Blog Post](https://medium.com/solana-labs/wormhole-solana-ethereum-bridge-d5502e944acb)
-* Hackathon presentations and events: [Schedule here](https://solana.com/hackathon)
+* Project submission form: [Submit here](https://solana.com/hackathon)
 
 ## Introduction
 Solana is the fastest, low-fee, censorship-resistant blockchain designed to enable developers to permissionlessly build and scale applications to billions of users globally. Wormhole is the first bidirectional bridge that connects Ethereum with Solana. Wormhole allows new and existing crypto projects, businesses, and communities to move tokenized assets seamlessly across blockchains to benefit from Solana’s high speed (50,000 transactions per second) and low cost (less than $0.00001 per transaction). 

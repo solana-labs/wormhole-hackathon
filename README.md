@@ -83,3 +83,11 @@ The Solana Wormhole hackathon welcomes any one from around the world to particip
 * Be Open: We welcome attendees from all backgrounds. This event is about increasing awareness for Solana and the greater crypto space. Please be welcoming to all who register for the event and help us create a friendly environment for all.
 
 * Believe in Yourself: Crypto opens the door for anyone to permissionlessly build applications that will change how we all interact with finance, gaming, and the Internet as a whole. Dream big and use this powerful technology to create a better world.
+
+## Legal Disclaimer
+
+The Wormhole Hackathon is a competition where projects will be evaluated by judges on their technological merits without consideration of legal viability. Participants in the Hackathon will create software solely for purposes of evaluation by judges as part of a competition and not for commercial deployment or release as part of the Hackathon.
+
+Solana does not encourage, induce or sanction the use of any software application in violation of applicable laws and regulations by offering prizes to participants in the Hackathon. All participants must comply with applicable laws and regulations when releasing any software that they develop as part of the Hackathon. 
+
+The Hackathon ideas and developer resources that Solana provides are for educational and inspiration purposes only. Solana does not encourage, induce or sanction the deployment of any such applications in violation of applicable laws or regulations.

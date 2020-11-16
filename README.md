@@ -51,7 +51,7 @@ Participants may submit a maximum of 1 project by the hackathon deadline. Once a
 4. Design
 5. Extensibility
 
-After judges complete individual evaluations, the hackathon organizers will discuss with the judges to choose the winners based on the project's weighted scores. To culminate the hackathon, there will be a live-streamed Demo Day with the top submissions, where prizes will be announced. Teams who decide to participate will demo their project to the Solana community and vie for the interest of investors, partners, and collaborators. 
+After judges complete individual evaluations, the hackathon organizers will discuss with the judges to choose the winners based on the project's weighted scores. To culminate the hackathon, there will be a live-streamed event where the invited winners will present their project submissions. 
 
 **Prizes**
 
